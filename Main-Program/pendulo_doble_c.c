@@ -914,7 +914,7 @@ int main(void)
 
 
             printf(
-                "\r"
+                "\n"
                 "t = %6.2f s | "
                 "theta1 = %8.2f deg | "
                 "theta2 = %8.2f deg | "
