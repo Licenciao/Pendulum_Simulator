@@ -11,7 +11,7 @@
 #define MAX_TRAIL 4000
 
 /* ============================================================
-   SIMULADOR DE PENDULO DOBLE
+   SIMULADOR DE PENDULO DOBLE en C
 
    Estado:
        y[0] = theta1
@@ -338,7 +338,7 @@ int main(void)
 
 
     printf(
-        "\n--- Simulador de Pendulo Doble ---\n\n"
+        "\n--- Simulador de Pendulo Doble en C---\n\n"
     );
 
 
